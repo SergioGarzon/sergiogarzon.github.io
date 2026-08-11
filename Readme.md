@@ -1,9 +1,9 @@
-# Proyecto de Argentina Programa
+# Portfolio Sergio Garzón
 
-## Proyecto en Desarrollo
+> Technologies
 
-<img src="./src/assets/photowebsiteprogress.png" alt="Foto del proyecto en Desarrollo"/>
+* FrontEnd: Angular
+* BackEnd: Spring Boot
+* DataBase: MySQL  
 
-<br />
-
-### Se terminara en breve
+![Technologies](./Resources/technologies.png)
