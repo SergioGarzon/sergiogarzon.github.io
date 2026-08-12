@@ -14,6 +14,7 @@ div {
     margin-top: 30%;
 }
 
+
 @media (min-width: 576px) {
     #profilePhotos {
         position: absolute;
@@ -28,11 +29,11 @@ div {
 @media (max-width: 575px) {
     #profilePhotos {
         position: absolute;
-        width: 15%;
+        width: 35%;
         border-radius: 100%;
         box-shadow: 3px 3px 3px grey;
         left: 41%;
-        top: 650px;
+        top: 950px;
     }
 }
 
